@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//:bashsoft707.github.io/monsters-rolodex/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/main.8384fa3e.chunk.js",
+    "main.js.map": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/main.8384fa3e.chunk.js.map",
+    "runtime-main.js": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/runtime-main.dbb73188.js",
+    "runtime-main.js.map": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/runtime-main.dbb73188.js.map",
+    "static/js/2.197dceb6.chunk.js": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/2.197dceb6.chunk.js",
+    "static/js/2.197dceb6.chunk.js.map": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/2.197dceb6.chunk.js.map",
+    "static/js/3.8dd36a71.chunk.js": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/3.8dd36a71.chunk.js",
+    "static/js/3.8dd36a71.chunk.js.map": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/3.8dd36a71.chunk.js.map",
+    "index.html": "/https//:bashsoft707.github.io/monsters-rolodex/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/https//:bashsoft707.github.io/monsters-rolodex/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.197dceb6.chunk.js.LICENSE.txt": "/https//:bashsoft707.github.io/monsters-rolodex/static/js/2.197dceb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb73188.js",
+    "static/js/2.197dceb6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8384fa3e.chunk.js"
+  ]
+}
